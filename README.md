@@ -1,6 +1,6 @@
 ELÉRHETŐSÉGEK:
 
-Sándor Máté:  
+Sándor Máté:  LETILTOTT A FACEBOOK KERESSETEK EMAILEN
 
               - +36702672811
 
