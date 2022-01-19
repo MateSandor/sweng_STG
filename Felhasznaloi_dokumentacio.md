@@ -133,7 +133,7 @@ A gombokon szereplő szöveggel a felhasználó a számára megfelelő irányba 
 3.4 Main menu
 ---------------
 
-<img src="Images/Images/MainMenu.PNG" width="1000">
+<img src="Images/MainMenu.PNG" width="1000">
 
 [user icon] - Erre a gombra nyomva a felhasználó szerkeszteni tudja a fiókját.
 
