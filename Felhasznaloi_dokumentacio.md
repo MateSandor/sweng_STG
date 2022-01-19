@@ -1,7 +1,12 @@
-Felhasználói fokumentáció
+Felhasználói dokumentáció
 =======================
 
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
 Tartalom:
+--------
 
 1. Általános leírás
 
@@ -19,6 +24,10 @@ Tartalom:
     3.3 Login menu
  
     3.4 Main menu
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
 
 
 1, Általános leírás 
@@ -80,7 +89,9 @@ A gombokon szereplő szöveggel a felhasználó a számára megfelelő irányba 
 
 3.2. First menu
 ----------------
-	
+
+<img src="Images/FirstMenu.PNG" width="1000">
+
 [PLAY AS GUEST] - Játék vendégként. Ebben az esetben a felhasználó csak bizonyos játékmódokban tud játszani ilyen például az 1 vs AI, az 1 vs 1 random ellenfél ellen.
 
 
@@ -95,6 +106,8 @@ A gombokon szereplő szöveggel a felhasználó a számára megfelelő irányba 
 
 3.3 Login Menu
 --------------
+
+<img src="Images/LoginMenu.PNG" width="1000">
 
 [USERNAME] - Itt a szöveg alatti táblába kattintva lehet beírni a felhasználónevet.
 
@@ -119,6 +132,8 @@ A gombokon szereplő szöveggel a felhasználó a számára megfelelő irányba 
 
 3.4 Main menu
 ---------------
+
+<img src="Images/Images/MainMenu.PNG" width="1000">
 
 [user icon] - Erre a gombra nyomva a felhasználó szerkeszteni tudja a fiókját.
 
