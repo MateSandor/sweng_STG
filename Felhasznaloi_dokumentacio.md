@@ -270,7 +270,7 @@ Ezek közt található három fontos adat:
 
 --------------------
 4.Irányítás és gombok
-----------------------
+===================
 
 4.1 Tank irányítása
 -------------------
@@ -374,7 +374,7 @@ Mozgás a menüben gombok között a nyilak (UP-ARROW, DOWN-ARROW, LEFT-ARROW, R
 
 ------------------
 5.Hibaüzenetek
--------------
+===========
 
 Mivel a játék még Alphaban van a hibaüzeneteket kérjük küldjék el nekünk a kód alatti [REPORT ERROR] gombbal. Egyéb kérdésekért és válaszokért kérjük keresse fel a folyamatosan bővülő FAQ oldalunkat: www.SoftTechGames.com/Tankies/FAQ
 
